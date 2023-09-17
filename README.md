@@ -1,2 +1,3 @@
-# tarea-1-semana3-curso2
-tarea-1-semana3-curso2
+# Mascotas, Recycler View y Action View
+Mascotas, Recycler View y Action View
+
